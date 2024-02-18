@@ -1,5 +1,5 @@
 ## Overview ##
-*Recent changes Goat compatible Discord webhook* is a project created to track changes on MediaWiki wikis directly on Discord.     
+*Recent changes Goat compatible Discord webhook* is a project created to track changes on MediaWiki wikis directly on Discord that was originally created by Frisk/piotrex43 and published to Gitlab.     
 **Screenshots** of the script in action can be found [on the wiki](https://gitlab.com/piotrex43/RcGcDw/wikis/Presentation).
 
 ### Features ###
