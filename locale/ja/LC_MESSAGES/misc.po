@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the RcGcDw package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RcGcDw\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-30 11:58+0100\n"
+"PO-Revision-Date: 2021-07-11 12:33+0000\n"
+"Last-Translator: しぃ <lzmashili@icloud.com>\n"
+"Language-Team: Japanese <https://translate.wikibot.de/projects/rcgcdw/misc/"
+"ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.6.2\n"
+
+#: src/misc.py:45
+msgid "Location"
+msgstr "ロケーション"
+
+#: src/misc.py:45
+msgid "About me"
+msgstr "私について"
+
+#: src/misc.py:45
+msgid "Google link"
+msgstr "Googleのリンク"
+
+#: src/misc.py:45
+msgid "Facebook link"
+msgstr "Facebookのリンク"
+
+#: src/misc.py:45
+msgid "Twitter link"
+msgstr "Twitterのリンク"
+
+#: src/misc.py:45
+msgid "Reddit link"
+msgstr "Redditのリンク"
+
+#: src/misc.py:45
+msgid "Twitch link"
+msgstr "Twitchのリンク"
+
+#: src/misc.py:45
+msgid "PSN link"
+msgstr "PSNのリンク"
+
+#: src/misc.py:45
+msgid "VK link"
+msgstr "VKのリンク"
+
+#: src/misc.py:45
+msgid "XBL link"
+msgstr "XBLのリンク"
+
+#: src/misc.py:45
+msgid "Steam link"
+msgstr "Steamのリンク"
+
+#: src/misc.py:45
+msgid "Discord handle"
+msgstr "Discordアカウントへのリンク"
+
+#: src/misc.py:45
+msgid "Battle.net handle"
+msgstr "Battle.net アカウントへのリンク"
+
+#: src/misc.py:119
+msgid ""
+"\n"
+"__And more__"
+msgstr ""
+"\n"
+"__その他色々__"
+
+#: src/misc.py:276
+msgid "Unknown"
+msgstr "不明"
+
+#: src/misc.py:278
+msgid "unknown"
+msgstr "不明"
