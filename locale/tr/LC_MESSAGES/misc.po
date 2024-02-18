@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the RcGcDw package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RcGcDw\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-18 14:13+0100\n"
+"PO-Revision-Date: 2021-07-11 12:33+0000\n"
+"Last-Translator: Doğukan Karakaş <dogukankarakas6@gmail.com>\n"
+"Language-Team: Turkish <https://translate.wikibot.de/projects/rcgcdw/misc/tr/"
+">\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.6.2\n"
+
+#: src/misc.py:45
+msgid "Location"
+msgstr "Konum"
+
+#: src/misc.py:45
+msgid "About me"
+msgstr "Hakkımda"
+
+#: src/misc.py:45
+msgid "Google link"
+msgstr "Google bağlantısı"
+
+#: src/misc.py:45
+msgid "Facebook link"
+msgstr "Facebook bağlantısı"
+
+#: src/misc.py:45
+msgid "Twitter link"
+msgstr "Twitter bağlantısı"
+
+#: src/misc.py:45
+msgid "Reddit link"
+msgstr "Reddit bağlantısı"
+
+#: src/misc.py:45
+msgid "Twitch link"
+msgstr "Twitch bağlantısı"
+
+#: src/misc.py:45
+msgid "PSN link"
+msgstr "PSN bağlantısı"
+
+#: src/misc.py:45
+msgid "VK link"
+msgstr "VK bağlantısı"
+
+#: src/misc.py:45
+msgid "XBL link"
+msgstr "XBL bağlantısı"
+
+#: src/misc.py:45
+msgid "Steam link"
+msgstr "Steam bağlantısı"
+
+#: src/misc.py:45
+msgid "Discord handle"
+msgstr "Discord adı"
+
+#: src/misc.py:45
+msgid "Battle.net handle"
+msgstr "Battle.net adı"
+
+#: src/misc.py:114
+msgid ""
+"\n"
+"__And more__"
+msgstr ""
+"\n"
+"__Ve dahası__"
+
+#: src/misc.py:271
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#: src/misc.py:273
+msgid "unknown"
+msgstr "bilinmiyor"
