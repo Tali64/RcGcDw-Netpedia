@@ -1,0 +1,15 @@
+settings.json
+pygettext.py
+lastchange.txt
+.directory
+/debug
+/index.lokalize
+/data.json
+/main.lqa
+/venv/
+/lokalize-scripts/
+/venvv/
+/.idea/
+__pycache__
+*.bat
+*.code-workspace
