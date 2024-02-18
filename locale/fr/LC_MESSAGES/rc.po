@@ -1,0 +1,43 @@
+# UN TITRE MERVEILLEUSEMENT DESCRIPTIF
+# COPYRIGHT HAHAHAHA I WISH J'AI PAS DE COPYRIGHT
+# AUTEUR #1 C'EST MOI MWAHAHAHAHAHA
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-23 00:28+0100\n"
+"PO-Revision-Date: 2021-05-06 14:10+0000\n"
+"Last-Translator: Arnaud0865 <Arnaud2.8583@gmail.com>\n"
+"Language-Team: French <https://translate.wikibot.de/projects/rcgcdw/rc/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.6\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: rcgcdw.pot\n"
+
+#: src/rc.py:322
+#, python-brace-format
+msgid "{wiki} seems to be down or unreachable."
+msgstr "{wiki} semble être down ou inatteignable."
+
+#: src/rc.py:323 src/rc.py:335
+msgid "Connection status"
+msgstr "Statut de connexion"
+
+#: src/rc.py:333
+#, python-brace-format
+msgid "Connection to {wiki} seems to be stable now."
+msgstr "La connexion avec {wiki} semble stable maintenant."
+
+#: src/rc.py:404
+msgid "~~hidden~~"
+msgstr "~~caché~~"
+
+#: src/rc.py:408
+msgid "hidden"
+msgstr "caché"
